@@ -1,0 +1,6 @@
+{
+  "name": "Mover Pilates e Fisioterapia",
+  "description": "Studio de Pilates e Fisioterapia em Ariquemes - RO. Alinhamento postural, alívio de dores e força consciente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
